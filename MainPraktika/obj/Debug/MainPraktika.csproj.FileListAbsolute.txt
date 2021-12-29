@@ -1,0 +1,13 @@
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\bin\Debug\MainPraktika.exe.config
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\bin\Debug\MainPraktika.exe
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\bin\Debug\MainPraktika.pdb
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.csprojAssemblyReference.cache
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.AddForm.resources
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.DeletForm.resources
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.Properties.Resources.resources
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.RedakForm.resources
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.csproj.GenerateResource.cache
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.csproj.CoreCompileInputs.cache
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.exe
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.pdb
+C:\Users\Jimmik\source\repos\Praktika(4Kurs)\MainPraktika\obj\Debug\MainPraktika.MainForm.resources
